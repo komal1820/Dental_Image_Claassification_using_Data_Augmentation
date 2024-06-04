@@ -1,1 +1,1 @@
-# Dental_Image_Claassification_using_Data_Augmentation
+# Dental_Image_Classification_using_Data_Augmentation
